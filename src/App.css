@@ -1,7 +1,7 @@
 .list{
   display: flex;
   justify-content:start;
-  margin-left: 50px;
+  margin-left: 170px;
 }
 .d2{
   position: relative;
@@ -42,7 +42,7 @@ span{
  
 }
 .infodiv{
-  margin-left: 10 0px;
+  margin-left: 100px;
   margin-top: 15px;
 }
 table:nth-of-type(2){
