@@ -1,0 +1,50 @@
+.list{
+  display: flex;
+  justify-content:start;
+  margin-left: 50px;
+}
+.d2{
+  position: relative;
+  left: 70px;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  width: 90%;
+}
+button{
+  background-color: aquamarine;
+}
+button:active{
+  background-color:brown;
+}
+body{
+  background-color:cornsilk
+}
+.show{
+  background-color: blue;
+  font-size: small;
+  height: 25px;
+  margin-top: 15px;
+} 
+span{
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 230px;
+}
+.list table{
+  width: 180px;
+}
+.tablediv{
+  display: flex;
+  justify-content: start;
+  position:relative;
+ 
+}
+.infodiv{
+  margin-left: 10 0px;
+  margin-top: 15px;
+}
+table:nth-of-type(2){
+  margin-left: 100px;
+}
